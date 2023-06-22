@@ -14,6 +14,4 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/greynotedb/greynote)](https://github.com/greynotedb/greynote/stargazers)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77dbeb17-e087-4fb8-b2fb-8851107ebff2/deploy-status)](https://app.netlify.com/sites/greynote-2/deploys)
 [![Lines of code](https://img.shields.io/tokei/lines/github/greynotedb/greynote)](https://github.com/greynotedb/greynote)
-[![Lines of code](https://img.shields.io/tokei/lines/github/greynotedb/greynote-server)](https://github.com/greynotedb/greynote-server)
-
 </div>
