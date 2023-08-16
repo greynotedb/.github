@@ -7,7 +7,7 @@
 
 <h3>
 
-[Homepage](https://greynote.app) | [Guide](https://youtu.be/VUTir0pTgBg)
+[Homepage](https://dashboard.greynote.app) | [Guide](https://youtu.be/VUTir0pTgBg)
 
 </h3>
 
