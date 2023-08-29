@@ -15,7 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/77dbeb17-e087-4fb8-b2fb-8851107ebff2/deploy-status)](https://app.netlify.com/sites/greynote-2/deploys)
 [![Lines of code](https://img.shields.io/tokei/lines/github/greynotedb/greynote)](https://github.com/greynotedb/greynote)
 
+![photo_2023-08-29_19-24-30](https://github.com/greynotedb/.github/assets/69642932/7e8c13b1-e944-4839-9e32-342bb3f54106)
 
-![grey2mock](https://github.com/greynotedb/.github/assets/69642932/0d452fd9-e9a9-4e2e-823f-cd364cf10f46)
 
 </div>
